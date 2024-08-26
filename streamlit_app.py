@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from prediction_bot import predict_option  # Import the prediction function
 
 # Set up API key and URL for fetching stock data
-API_KEY = "6YR2UAJDXTJ2KROR"
+API_KEY = "OS0F2JRTRXHL1A9U"
 BASE_URL = "https://www.alphavantage.co/query"
 
 # Title of the app
